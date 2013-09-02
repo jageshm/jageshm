@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'YanoneKaffeesatzRegular';
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.eot');
+    src: url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.eot?iefix') format('eot'),
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.woff') format('woff'),
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.ttf') format('truetype'),
+         url('../fonts/yanone_kaffeesatz/yanonekaffeesatz-regular-webfont.svg#webfontiVAlVXNY') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.lay1 .block_comm a, .lay2 .block_comm a, .lay3 .block_comm a{ float: left;line-height: 9px;margin-left: -3px;padding-top: 9px;text-align: center; font-family: 'YanoneKaffeesatzRegular'; letter-spacing: 0.05em; font-weight: normal!important;}
+.lay1 .block_comm span, .lay2 .block_comm span, .lay3 .block_comm span{ float: left;line-height: 9px;margin-left: 3px;padding-top: 14px;text-align: center; font-family: 'YanoneKaffeesatzRegular'; letter-spacing: 0.05em; font-weight: normal!important;}
+	
+h1, h2, h3, h4, h5, h6, .trt_button a, #submit_msg, #submit_msg, #submit, .fourofour a, .trt_wgt_tt, #related ul li a, .logo h1 a, #slider .slider-content h2 a, .lay1 .post .postitle a, .lay1 .page .postitle a, #topmenu ul li a{ font-family: 'YanoneKaffeesatzRegular'; letter-spacing: 0.05em; font-weight: normal!important;}
+h1{ font-size:40px; }
+h2{font-size:24px;}
+h3{font-size:18px;}
+h4{font-size:18px;}
+h5{font-size:14px;}
+h6{font-size:12px;}
+.postitle a{font-size:20px;}	
+.single_page_post .postitle a{ font-size:24px;}
+#related .post_title, #submit_msg, #submit{font-family: 'YanoneKaffeesatzRegular'!important;font-size:16px!important;}
+#topmenu ul li a{font-size:18px!important;}
+
+
+#sidebar .widgets .widget ul li .znn_wgt_tt, #midrow .widgets .widget ul li .znn_wgt_tt, #footer .widgets .widget ul li .znn_wgt_tt{ font-family: 'YanoneKaffeesatzRegular'; letter-spacing: 0.05em; font-weight: normal!important; font-size:15px;}
+
+
+.lay1 .post_content h2 a, .lay2 .post_content h2 a{ font-size:16px!important;}
+#topmenu ul li ul li a{ font-size:14px!important;}
+#thn_welcom{font-family: 'YanoneKaffeesatzRegular'!important;}
+#footer .widgets .widget ul li .thn_wgt_tt, #sidebar .widgets .widget li a, .commentlist .commentmetadata, .commentlist .commentmetadata a, #newslider_home ul#tabs_home li a h4{font-family: 'YanoneKaffeesatzRegular'!important; font-size:16px;}

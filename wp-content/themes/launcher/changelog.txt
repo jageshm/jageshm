@@ -1,0 +1,9 @@
+v1.1 (July 16th, 2012)
+
+-----------------------------
+Added feature to change footer credit link.
+
+v1.0 (April 30th, 2012)
+
+-----------------------------
+Theme Released

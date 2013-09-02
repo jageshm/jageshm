@@ -1,0 +1,20 @@
+
+@font-face {
+	font-family: 'Lobster1.4Regular';
+	src: url('../fonts/lobster/lobster_1.4-webfont.eot');
+	src: local('?'), url('../fonts/lobster/lobster_1.4-webfont.woff') format('woff'), url('../fonts/lobster/lobster_1.4-webfont.ttf') format('truetype'), url('../fonts/Lobster/lobster_1.4-webfont.svg#webfontcOtP3oQb') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+h1, h2, h3, h4, h5, h6, .trt_button a, #submit_msg, #submit_msg, #submit, .fourofour a, .trt_wgt_tt, #related ul li a, .logo h1 a, #slider .slider-content h2 a, .lay1 .post .postitle a, .lay1 .page .postitle a, #posts .postitle, #posts .postitle a, .znn_wgt_tt{ font-family: 'Lobster1.4Regular'!important; font-weight:normal!important; text-transform:capitalize!important;}
+
+
+.logo h1 a{ font-size:40px;}
+#topmenu ul li a{ font-size:16px;font-family: 'Lobster1.4Regular'!important; font-weight:normal!important;}
+
+.lay1 .post_content h2 a, .lay2 .post_content h2 a, .midrow_block h3{ font-size:16px!important;}
+#thn_welcom{font-family: 'Lobster1.4Regular'!important; font-size:24px;}
+#footer .widgets .widget ul li .thn_wgt_tt, #sidebar .widgets .widget li a, .commentlist .commentmetadata, .commentlist .commentmetadata a, #newslider_home ul#tabs_home li a h4, ul#tabs li a{font-family: 'Lobster1.4Regular'!important; font-size:14px;}
+.single_wrap .postitle{ font-size:24px;}

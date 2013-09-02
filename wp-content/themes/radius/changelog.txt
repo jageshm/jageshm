@@ -1,0 +1,10 @@
+= 1.1 [2012.10.14] =
+
+* Custom Background and Custom Header update accourding to WordPress 3.4+
+* Several other code fixes accourding to WordPress 3.4+
+* Maintenance and Improvements
+* radius.po re-generated
+
+= 1.0 [2012.05.19] =
+
+* Initial Release.

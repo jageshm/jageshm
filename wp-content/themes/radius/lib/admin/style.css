@@ -1,0 +1,47 @@
+/*  Global
+------------------------ */
+
+.radius-clear {
+	clear: both;
+	height: 0px;
+	font-size: 0px;
+	line-height: 0px;
+}
+
+.radius-focus {
+	color: #dc4b39;
+	font-weight: bold;
+}
+
+/*  Tabs
+------------------------ */
+
+.radius-tabs h3 { 
+	display:none;
+}
+
+.radius-tabs {
+	margin: 15px 0 15px 0;
+}
+
+.radius-tabs h2 {
+	margin: 0 8px;
+}
+
+.radius-tabs-content {
+	padding: 10px;
+}
+
+.radius-tabs-content a:link,
+.radius-tabs-content a:visited,
+.radius-tabs-data a:link,
+.radius-tabs-data a:visited {
+	color: #dc4b39;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.radius-tabs-content a:hover,
+.radius-tabs-data a:hover {
+	text-decoration: underline;
+}
